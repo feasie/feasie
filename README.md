@@ -1,2 +1,1 @@
-im misfeasor
-i code things occasionally
+im misfeasor and i often code things
